@@ -9,7 +9,7 @@ for i in `seq $1 $2`; do
   bsnap=$((i-1))
 
 sqlplus "/ as sysdba" << !
-define report_name=sp_${bsnap}_${esnap}.txt\n
+define report_name=sp_${bsnap}_${esnap}.txt
 define begin_snap=${bsnap}
 define end_snap=${esnap}
 @?/rdbms/admin/spreport
