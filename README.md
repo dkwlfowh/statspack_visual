@@ -30,3 +30,5 @@ cd Python-3.7.3
 sudo ./configure --enable-optimizations   
 sudo make altinstall    
 python3.7 statspack_analyzer.py /root/stat/ txt     
+
+
