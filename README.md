@@ -33,4 +33,5 @@ python3.7 statspack_analyzer.py /root/stat/ txt
 
 
 # CPU Image
-https://github.com/dkwlfowh/statspack_visual/issues/1#issue-897898885
+![image](https://user-images.githubusercontent.com/37256341/119121312-37c5b100-ba68-11eb-85f0-2f210d2c6a73.png)
+
