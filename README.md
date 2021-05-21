@@ -4,9 +4,9 @@
 
 #!/bin/bash
 
-for i in `seq $1 $2`; do
-  esnap=$i
-  bsnap=$((i-1))
+for i in `seq $1 $2`; do. 
+  esnap=$i.  
+  bsnap=$((i-1)).  
 
 sqlplus "/ as sysdba" << !
 define report_name=sp_${bsnap}_${esnap}.txt
