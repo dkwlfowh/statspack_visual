@@ -32,3 +32,5 @@ sudo make altinstall
 python3.7 statspack_analyzer.py /root/stat/ txt     
 
 
+# CPU
+https://github.com/dkwlfowh/statspack_visual/issues/1#issue-897898885
