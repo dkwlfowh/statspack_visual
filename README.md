@@ -22,7 +22,7 @@ done
 $ sh gen.sh 13427 13860
 
 
-#Python 3.7 이용
+# Python 3.7 이용
 sudo wget https://www.python.org/ftp/python/3.7.3/Python-3.7.3.tgz
 sudo tar xzf Python-3.7.3.tgz
 cd Python-3.7.3 
